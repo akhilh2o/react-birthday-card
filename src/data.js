@@ -7,10 +7,10 @@ export default [
   },
   {
     id: 2,
-    name: 'Bertie Yates',
-    age: 29,
+    name: 'Pawan Gupta',
+    age: 25,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
+      'https://instagram.fknu1-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s150x150/52550319_355996885002699_1936799326274068236_n.jpg?_nc_ht=instagram.fknu1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Dk7q3BOGZssAX8UKt-9&tp=16&oh=7f9878b160129335935ab1f474b18ffb&oe=5FC65356',
   },
   {
     id: 3,
@@ -21,24 +21,24 @@ export default [
   },
   {
     id: 4,
-    name: 'Larry Little',
+    name: 'Anne Marie',
     age: 36,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
+      'https://upload.wikimedia.org/wikipedia/commons/f/f7/Anne-Marie_Rose_Nicholson%2C_2017_%28cropped%29.jpg',
   },
   {
     id: 5,
-    name: 'Sean Walsh',
+    name: 'Eminem',
     age: 34,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+      'https://globalnews.ca/wp-content/uploads/2020/02/22618186.jpg?quality=85&strip=all',
   },
   {
     id: 6,
-    name: 'Lola Gardner',
-    age: 29,
+    name: 'Denzel Washington',
+    age: 65,
     image:
-      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
+      'https://prdaficalmjediwestussa.blob.core.windows.net/images/2019/06/0047_2019_LAA_DenzelWashington.jpg',
   },
 
 ];
